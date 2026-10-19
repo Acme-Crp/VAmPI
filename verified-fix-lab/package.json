@@ -6,6 +6,6 @@
     "test": "node -e \"require('lodash'); console.log('verified-fix-lab ok')\""
   },
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.18.0"
   }
 }
